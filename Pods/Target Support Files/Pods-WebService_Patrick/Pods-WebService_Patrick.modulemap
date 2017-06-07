@@ -1,0 +1,6 @@
+framework module Pods_WebService_Patrick {
+  umbrella header "Pods-WebService_Patrick-umbrella.h"
+
+  export *
+  module * { export * }
+}
